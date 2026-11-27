@@ -1,0 +1,12 @@
+{
+  "name": "SurakshaSetu",
+  "short_name": "SurakshaSetu",
+  "description": "Safety, identity and opportunity platform for waste workers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#0f8f45",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
